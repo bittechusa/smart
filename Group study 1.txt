@@ -1,0 +1,53 @@
+SDLC: Software Development Life Cycle:
+Investor(Owner) gives his/her story regarding business demand.
+BA-Business Analyst who listens to the investor and creates BRD(Business Required Documents). 
+Designer- creates wire-frame according to BRD. 
+Developer- develops according to BRD and wire-frame. 
+Testers- tests project. 
+UAT(User acceptance test)-In software development, user acceptance testing (UAT) - also called beta testing, application testing, and 
+ end user testing - is a phase of software development in which the software is tested in the "real world" by the intended audience.
+They also test before it goes in the market.
+(Usually it done by the investor/stack holder/manager). 
+
+2 types of methodology: Waterfall and Agile:
+
+Waterfall: is a sequential life cycle model. Each step takes place after the last one is completed. If there is any big change, it cannot be done
+until we start from the beginning. However it will be very costly. If a small change is requested then it's possible without starting from the beginning.  
+
+Agile: is a incrementally life cycle method. In Agile the whole team works together.
+To implement Agile, we must follow a process called SPRINT, which last 2/3 weeks.
+What is SPRINT? A process to implement Agile. 
+
+4 components of SPRINT:
+1-SPRINT Planning meeting: The whole team plan the works that needs to be done in that SPRINT.
+2-Daily Stand-Up/Scrum meeting: Everyone stands up daily for 10-15 mins to discuss SPRINT. Mainly, 3 things are discussed:
+		A-What I did yesterday?
+		B-What will I do today?
+		C-Is there any obstacle? 
+3-Demo Meeting: After SPRINT is completed we do a demo of that SPRINT. Owner/stack holder/investor might/might not be present. The whole teams is present 
+at the meeting, because if the owner has any question specifically for anyone, they are there to answer the question. 
+4-Retrospective meeting- After the demo meeting, the whole SPRINT team gets together to discuss about that SPRINT. They mainly discuss about 3 things:
+		A-What went well?
+		B-What went wrong?
+		C-If improvement is needed. 
+**In agile we have a scrum master/facilitator who facilitates the team to make sure everything is well.
+**BA can also be a scrum master/facilitator
+**BA can be a manager and scrum master.  
+
+Jira- Its a bug/issue tracking and project management functioning tool. It organizes issues, and assign work to follow team activities. 
+**To organize Agile we use Jira
+
+HTML(Hyper Text Mark-up Language)- Its a mark-up language for describing web documents. 
+
+
+CSS(Cascading Style Sheet)- It's a style language that defines the layout of HTML documents/how HTML document is displayed.
+
+JavaSript- It is a programming language of HTML and the web.
+
+XPath
+(XML)
+Java
+Selenium
+
+
+
