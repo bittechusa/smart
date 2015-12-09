@@ -2,12 +2,21 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite name="Default suite" duration-ms="25370" started-at="2015-10-04T20:58:12Z" finished-at="2015-10-04T20:58:38Z">
     <groups>
     </groups>
     <test name="Default test" duration-ms="25370" started-at="2015-10-04T20:58:12Z" finished-at="2015-10-04T20:58:38Z">
       <class name="com.DataProvide">
         <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@77f03bb1]" name="test" duration-ms="9723" started-at="2015-10-04T16:58:12Z" data-provider="Authentication" finished-at="2015-10-04T16:58:22Z">
+=======
+  <suite name="Default suite" duration-ms="34309" started-at="2015-10-04T20:58:14Z" finished-at="2015-10-04T20:58:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34309" started-at="2015-10-04T20:58:14Z" finished-at="2015-10-04T20:58:48Z">
+      <class name="com.DataProvide">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="12010" started-at="2015-10-04T16:58:14Z" data-provider="Authentication" finished-at="2015-10-04T16:58:26Z">
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
           <params>
             <param index="0">
               <value>
@@ -23,7 +32,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
+<<<<<<< HEAD
         <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@77f03bb1]" name="test" duration-ms="7817" started-at="2015-10-04T16:58:22Z" data-provider="Authentication" finished-at="2015-10-04T16:58:30Z">
+=======
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="11529" started-at="2015-10-04T16:58:26Z" data-provider="Authentication" finished-at="2015-10-04T16:58:38Z">
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
           <params>
             <param index="0">
               <value>
@@ -39,7 +52,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
+<<<<<<< HEAD
         <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@77f03bb1]" name="test" duration-ms="7799" started-at="2015-10-04T16:58:30Z" data-provider="Authentication" finished-at="2015-10-04T16:58:38Z">
+=======
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="10738" started-at="2015-10-04T16:58:38Z" data-provider="Authentication" finished-at="2015-10-04T16:58:48Z">
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
           <params>
             <param index="0">
               <value>
