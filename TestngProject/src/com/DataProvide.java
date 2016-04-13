@@ -15,7 +15,12 @@ public class DataProvide
 
   @DataProvider(name = "Authentication")
 
+<<<<<<< HEAD
+  public static Object[][] credentials() 
+  {
+=======
   public static Object[][] credentials() {
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
 
         return new Object[][] { { "sislam", "Test@123" }, { "testu", "Test@1234" },{ "testu", "Test@1234" }};
 
@@ -25,7 +30,12 @@ public class DataProvide
 
   @Test(dataProvider = "Authentication")
 
+<<<<<<< HEAD
+  public void test(String sUsername, String sPassword) throws InterruptedException 
+  {
+=======
   public void test(String sUsername, String sPassword) throws InterruptedException {
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
 
 	  driver = new FirefoxDriver();
 	  driver.manage().window().maximize();
