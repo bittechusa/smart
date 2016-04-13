@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testng-results skipped="1" failed="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
@@ -47,6 +48,65 @@ in C:\Users\rumena\AppData\Local\Temp\testng-eclipse-645799228\testng-customsuit
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- com.Parameter -->
+=======
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34309" started-at="2015-10-04T20:58:14Z" finished-at="2015-10-04T20:58:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34309" started-at="2015-10-04T20:58:14Z" finished-at="2015-10-04T20:58:48Z">
+      <class name="com.DataProvide">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="12010" started-at="2015-10-04T16:58:14Z" data-provider="Authentication" finished-at="2015-10-04T16:58:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sislam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="11529" started-at="2015-10-04T16:58:26Z" data-provider="Authentication" finished-at="2015-10-04T16:58:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.DataProvide@64c64813]" name="test" duration-ms="10738" started-at="2015-10-04T16:58:38Z" data-provider="Authentication" finished-at="2015-10-04T16:58:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.DataProvide -->
+>>>>>>> 5b058983e3e3fbcf06c8fb2691428b7afb9fd4dc
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
